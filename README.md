@@ -33,10 +33,10 @@ An interactive **web application** designed to simplify splitting bills among mu
 ## Demo
 
 ### Interface Overview  
-![Interface Overview](image1.png)  
+![Interface Overview](image1.jpeg)  
 
 ### Expense Summary Example  
-![Expense Summary](image2.png)  
+![Expense Summary](image2.jpeg)  
 
 ---
 
